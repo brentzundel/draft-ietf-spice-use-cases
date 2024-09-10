@@ -2,16 +2,16 @@
 
 This is the working area for the IETF [SPICE Working Group](https://datatracker.ietf.org/wg/spice/documents/) Internet-Draft, "SPICE Use Cases".
 
-* [Editor's Copy](https://brentzundel.github.io/draft-ietf-spice-use-cases/#go.draft-ietf-spice-use-cases.html)
+* [Editor's Copy](https://ietf-wg-spice.github.io/draft-ietf-spice-use-cases/#go.draft-ietf-spice-use-cases.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-ietf-spice-use-cases)
 * [Working Group Draft](https://datatracker.ietf.org/doc/html/draft-ietf-spice-use-cases)
-* [Compare Editor's Copy to Working Group Draft](https://brentzundel.github.io/draft-ietf-spice-use-cases/#go.draft-ietf-spice-use-cases.diff)
+* [Compare Editor's Copy to Working Group Draft](https://ietf-wg-spice.github.io/draft-ietf-spice-use-cases/#go.draft-ietf-spice-use-cases.diff)
 
 
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/brentzundel/draft-ietf-spice-use-cases/blob/main/CONTRIBUTING.md).
+[guidelines for contributions](https://ietf-wg-spice.github.io/draft-ietf-spice-use-cases/blob/main/CONTRIBUTING.md).
 
 Contributions can be made by creating pull requests.
 The GitHub interface supports creating pull requests using the Edit (✏) button.
