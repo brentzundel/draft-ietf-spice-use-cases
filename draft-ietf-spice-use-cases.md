@@ -24,7 +24,7 @@ author:
  -
     fullname: "Michael Prorock"
     organization: "mesur.io"
-    email = "mprorock@mesur.io"
+    email: "mprorock@mesur.io"
 
  -
     fullname: "Brent Zundel"
